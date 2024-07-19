@@ -1,0 +1,98 @@
+date,amount,category,description
+20-07-2024,125,Income,Salary
+19-07-2024,1244.0,Expense,test
+01-04-1999,200.0,Expense,
+19-07-2024,100.0,Income,
+20-07-2024,50.0,Expense,Groceries
+21-07-2024,30.0,Expense,Transportation
+22-07-2024,200.0,Expense,Utilities
+23-07-2024,500.0,Expense,Rent
+24-07-2024,1000.0,Expense,Entertainment
+25-07-2024,50.0,Expense,Dining Out
+26-07-2024,20.0,Expense,Shopping
+27-07-2024,150.0,Expense,Healthcare
+28-07-2024,80.0,Expense,Education
+29-07-2024,200.0,Expense,Travel
+30-07-2024,50.0,Expense,Subscriptions
+31-07-2024,100.0,Expense,Charity
+01-08-2024,70.0,Expense,Home Improvement
+02-08-2024,40.0,Expense,Insurance
+03-08-2024,90.0,Expense,Personal Care
+04-08-2024,60.0,Expense,Childcare
+05-08-2024,120.0,Expense,Utilities
+06-08-2024,200.0,Expense,Groceries
+07-08-2024,30.0,Expense,Transportation
+08-08-2024,500.0,Expense,Rent
+09-08-2024,1000.0,Expense,Entertainment
+10-08-2024,50.0,Expense,Dining Out
+11-08-2024,20.0,Expense,Shopping
+12-08-2024,150.0,Expense,Healthcare
+13-08-2024,80.0,Expense,Education
+14-08-2024,200.0,Expense,Travel
+15-08-2024,50.0,Expense,Subscriptions
+16-08-2024,100.0,Expense,Charity
+17-08-2024,70.0,Expense,Home Improvement
+18-08-2024,40.0,Expense,Insurance
+19-08-2024,90.0,Expense,Personal Care
+20-08-2024,60.0,Expense,Childcare
+21-08-2024,120.0,Expense,Utilities
+22-08-2024,200.0,Expense,Groceries
+23-08-2024,30.0,Expense,Transportation
+24-08-2024,500.0,Income,Investments
+25-08-2024,50.0,Expense,Groceries
+26-08-2024,30.0,Expense,Transportation
+27-08-2024,200.0,Expense,Utilities
+28-08-2024,500.0,Expense,Rent
+29-08-2024,1000.0,Expense,Entertainment
+30-08-2024,50.0,Expense,Dining Out
+31-08-2024,20.0,Expense,Shopping
+01-09-2024,150.0,Expense,Healthcare
+02-09-2024,80.0,Expense,Education
+03-09-2024,200.0,Expense,Travel
+04-09-2024,50.0,Expense,Subscriptions
+05-09-2024,100.0,Expense,Charity
+06-09-2024,70.0,Expense,Home Improvement
+07-09-2024,40.0,Expense,Insurance
+08-09-2024,90.0,Expense,Personal Care
+09-09-2024,60.0,Expense,Childcare
+10-09-2024,120.0,Expense,Utilities
+11-09-2024,200.0,Expense,Groceries
+12-09-2024,30.0,Expense,Transportation
+13-09-2024,500.0,Expense,Rent
+14-09-2024,1000.0,Expense,Entertainment
+15-09-2024,50.0,Expense,Dining Out
+16-09-2024,20.0,Expense,Shopping
+17-09-2024,150.0,Expense,Healthcare
+18-09-2024,80.0,Expense,Education
+19-09-2024,200.0,Expense,Travel
+20-09-2024,50.0,Expense,Subscriptions
+21-09-2024,100.0,Expense,Charity
+22-09-2024,70.0,Expense,Home Improvement
+23-09-2024,200.0,Income,Investments
+24-09-2024,100.0,Income,Salary
+25-09-2024,50.0,Income,Side Gig
+26-09-2024,80.0,Income,Part-time Job
+27-09-2024,150.0,Income,Freelancing
+28-09-2024,200.0,Income,Investments
+29-09-2024,100.0,Income,Salary
+30-09-2024,50.0,Income,Side Gig
+01-10-2024,80.0,Income,Part-time Job
+02-10-2024,150.0,Income,Freelancing
+03-10-2024,200.0,Income,Investments
+04-10-2024,100.0,Income,Salary
+05-10-2024,50.0,Income,Side Gig
+06-10-2024,80.0,Income,Part-time Job
+07-10-2024,150.0,Income,Freelancing
+08-10-2024,200.0,Income,Investments
+09-10-2024,100.0,Income,Salary
+10-10-2024,50.0,Income,Side Gig
+11-10-2024,80.0,Income,Part-time Job
+12-10-2024,150.0,Income,Freelancing
+13-10-2024,200.0,Income,Investments
+14-10-2024,100.0,Income,Salary
+15-10-2024,50.0,Income,Side Gig
+16-10-2024,80.0,Income,Part-time Job
+17-10-2024,150.0,Income,Freelancing
+18-10-2024,200.0,Income,Investments
+19-10-2024,100.0,Income,Salary
+20-10-2024,50.0,Income,Side Gig
