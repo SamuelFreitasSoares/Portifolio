@@ -15,9 +15,9 @@
 <h1>
     Home Template
 </h1>
-<div class="home-container" display: grid grid-template-columns: 1fr 3fr>
+<div>
 
-    <div>
+    <div class="home-container">
         <h3>Browse topics</h3>
         <hr>
 
@@ -33,6 +33,7 @@
     </div>
 
     <div>
+        <h5>{{room_count}} Rooms Available</h5>
         <a href="{% url 'createRoom' %}">Create Room</a>
         <div>
             {% for room in rooms %}
